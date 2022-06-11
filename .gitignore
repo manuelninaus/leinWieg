@@ -3,3 +3,9 @@
 Lib/
 Scripts/
 pyvenv.cfg
+
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor

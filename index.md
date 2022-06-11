@@ -1,42 +1,58 @@
 ---
-title: "Home"
+title: "A meta-analysis with examination of moderators of student cognition, affect, and learning outcomes while using serious educational games, serious games, and simulations"
 layout: page
 ---
 
-## Welcome to GitHub Pages
+![alt text](/educationalgames/assets/igor-karimov-9AmKnNZw3GA-unsplash1.jpg)
 
-You can use the [editor on GitHub](https://github.com/Syberspace/testrepo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Focus of the Study 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Comparing the effects of Serious Educational Games (SEG), Educational Simulations (ES), and Serious Games (SG) for students' learning performance. 
 
-### Markdown
+### Target Group 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Teachers and professors
+- Ministry of education (education, research financing)
+- (Serious) game developers
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Average Effect Size 
+- Large effect for skill based training (d=.81).
+- Medium effect for cognition (d=.67) and affect (d=.51).
 
-- Bulleted
-- List
+### Additional Remarks 
+- SEGs, SGs and ES are powerful tools influencing outcomes regarding cognition, affect, and skills
+- SEGs show a greater effect when compared to the other game types in cognitive outcomes and similar effects to SGs in affective and skills based learning, Simulations illustrate effects associated with cognition.
+- Moderator analysis shows five key findings stimulating learning: Game type, mode, learning environment, outcome and game type moderate the effect of the games/simulations
 
-1. Numbered
-2. List
+![alt text](/educationalgames/assets/erik-mclean-C3T8KTZxTFM-unsplash1.jpg)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Short Review
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<details>
+    <summary><b>Introduction</b></summary>
+    <p></p>
+</details>
 
-### Jekyll Themes
+<details>
+    <summary><b>What is this meta-analysis about?</b></summary>
+    <p></p>
+</details>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Syberspace/testrepo/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+<details>
+    <summary><b>What are the results of the meta-analysis?</b></summary>
+    <p></p>
+</details>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<details>
+    <summary><b>Quality of the meta-analysis (MAGIC)</b></summary>
+    <p></p>
+</details>
+
+<details>
+    <summary><b>Conclusion</b></summary>
+    <p>add text here</p>
+    <p>add text here for more paragraphs</p>
+</details>
