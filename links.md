@@ -11,7 +11,6 @@ Study Example 1:
 Study Example 2: 
 [Guillen-Nieto, V. & Aleson-Carbornell, M. (2012). Serious games learning effectiveness: The case of It's a Deal!, Computers and Education, 58, 435-448. https://doi.org/10.1016/j.compedu.2011.07.015](https://doi.org/10.1016/j.compedu.2011.07.015)
 
-
 ### References
 
 Ertmer, P. A., & Ottenbreit-Leftwich, A. T. (2010). Teacher technology change: How knowledge, confidence, beliefs, and culture intersect. _Journal of Research on Technology in Education_, 42(3), 255-284. [https://doi.org/10.1080/15391523.2010.10782551](https://doi.org/10.1080/15391523.2010.10782551)
@@ -21,6 +20,7 @@ Pearce, N., Weller, M., Scanlon, E., & Kinsley, S. (2012). Digital scholarship c
 Schore, A. N. (2000). Attachment and the regulation of the right brain. _Attachment & Human Development_, 2(1), 23-47. [https://doi.org/10.1080/146167300361309](https://doi.org/10.1080/146167300361309)
 
 
+Images from [unsplash.com](https://unsplash.com)
 
 
 
