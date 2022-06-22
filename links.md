@@ -12,6 +12,7 @@ Study Example 2:
 [Guillen-Nieto, V. & Aleson-Carbornell, M. (2012). Serious games learning effectiveness: The case of It's a Deal!, Computers and Education, 58, 435-448. https://doi.org/10.1016/j.compedu.2011.07.015](https://doi.org/10.1016/j.compedu.2011.07.015)
 
 ### References
+Abelson, R. P. (1995). Statistics as principled argument. Psychology Press.
 
 Ertmer, P. A., & Ottenbreit-Leftwich, A. T. (2010). Teacher technology change: How knowledge, confidence, beliefs, and culture intersect. _Journal of Research on Technology in Education_, 42(3), 255-284. [https://doi.org/10.1080/15391523.2010.10782551](https://doi.org/10.1080/15391523.2010.10782551)
 
