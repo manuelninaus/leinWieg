@@ -20,7 +20,7 @@ Pearce, N., Weller, M., Scanlon, E., & Kinsley, S. (2012). Digital scholarship c
 Schore, A. N. (2000). Attachment and the regulation of the right brain. _Attachment & Human Development_, 2(1), 23-47. [https://doi.org/10.1080/146167300361309](https://doi.org/10.1080/146167300361309)
 
 
-Images from [unsplash.com](https://unsplash.com)
+Pictures from: [Erik Mclean](https://unsplash.com/@introspectivedsgn) and [Igor Karimov](https://unsplash.com/@ingvar_erik) on [unsplash.com](https://unsplash.com)
 
 
 
